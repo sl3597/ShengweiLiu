@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Electrical & Computer Engineer | Wearable Tech"
+title: "Electrical & Computer Engineer | Wearable Tech Innovator"
 author_profile: true
 redirect_from: 
   - /about/
