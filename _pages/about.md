@@ -12,6 +12,11 @@ I am **Shengwei Liu**, an engineer and researcher passionate about **wearable te
 
 ---
 
+## 🎯 Career Vision
+I aim to pioneer next-generation **wearable health devices** and **distributed computing systems** that seamlessly integrate **AI, embedded systems, and computer architecture**. My long-term goal is to create impactful technology that bridges **cutting-edge engineering** with **practical healthcare solutions**.  
+
+---
+
 ## 🎓 Education
 - **Cornell Tech, Cornell University (New York, USA)**  
   Master of Engineering in Electrical & Computer Engineering, *Expected May 2026*  
@@ -59,11 +64,6 @@ I am **Shengwei Liu**, an engineer and researcher passionate about **wearable te
 - **Hardware/Tools:** gem5, STM32, Arduino, LiteRT, Altium, LTspice, Quartus, Multisim  
 - **Systems:** macOS, Linux, Windows  
 - **Interests:** Formula 1, Fitness, Cooking, Tennis, Cycling  
-
----
-
-## 🎯 Career Vision
-I aim to pioneer next-generation **wearable health devices** and **distributed computing systems** that seamlessly integrate **AI, embedded systems, and computer architecture**. My long-term goal is to create impactful technology that bridges **cutting-edge engineering** with **practical healthcare solutions**.  
 
 ---
 
