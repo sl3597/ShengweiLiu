@@ -5,7 +5,7 @@ title                    : "Shengwei Liu / Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Shengwei Liu"
 description              : &description "M.Eng. ECE @ Cornell Tech | B.Eng. EEE @ UCL | Researcher in Wearable Tech, Distributed Systems, and Computer Architecture"
-url                      : "https://academicpages.github.io"  # If you keep sl3597 as username, change this to https://sl3597.github.io
+url                      : "sl3597/ShengweiLiu.github.io"  # If you keep sl3597 as username, change this to https://sl3597.github.io
 baseurl                  : "" 
 repository               : "sl3597/ShengweiLiu.github.io"   # Replace with your actual repo name
 
