@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Shengwei Liu – Electrical & Computer Engineer | Wearable Tech & Distributed Systems Researcher"
+title: "Electrical & Computer Engineer | Wearable Tech"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome to my academic and professional website!  
+Welcome to my website!  
 I am **Shengwei Liu**, an engineer and researcher passionate about **wearable technologies, embedded systems, and distributed computing architectures**. I combine expertise in hardware-software co-design, machine learning, and system optimization to build real-world solutions in healthcare and computer systems.
 
 ---
