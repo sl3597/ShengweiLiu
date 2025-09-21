@@ -28,40 +28,11 @@ author:
   bio              : "M.Eng. student at Cornell Tech (ECE 2026) and B.Eng. First-Class Honors graduate from UCL. Researching wearable bio-signal systems, CXL-enabled distributed memory, and microarchitecture."
   location         : "New York, USA"
   employer         : "BioWare Tech, Tsinghua University"
-  email            : "sl3597@cornell.edu"
-
-  # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  email            : "sl3597@cornell.edu"  
 
   # Social media
   linkedin         : "shengwei127"
   instagram        : "swliu0127"
-
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
